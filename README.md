@@ -14,3 +14,5 @@ City of Pittsburgh Traffic Count: https://data.wprdc.org/dataset/traffic-count-d
 
 Description and links to the datasets used
 A one sentence overview of your repository, meant for someone who is not familiar with the project
+
+We were tasked with determining the best neighborhood in Pittsburgh using some metric for bestness. We chose to use whichever neighborhood had the most traffic.
