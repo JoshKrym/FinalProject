@@ -3,7 +3,7 @@
 The Boys, Canvas Group 26
 
 Joshua Krymgold: JPK114@pitt.edu, joshua-notebook.ipynb
-Russell Kirkpatrick: RLK70@pitt.edu, russell-notebook.ipynb
+Russell Kirkpatrick: RLK70@pitt.edu, russell.ipynb
 Mingyu Chen: mic175@pitt.edu, CityTrafficSign.ipynb
 
 
